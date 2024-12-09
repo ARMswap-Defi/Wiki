@@ -11,6 +11,9 @@
   "general_tab",
   "route",
   "wiki_sidebars",
+  "section_break_ltro",
+  "icon",
+  "short_description",
   "navbar_tab",
   "logo_section",
   "light_mode_logo",
@@ -67,11 +70,25 @@
   {
    "fieldname": "section_break_fhui",
    "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "section_break_ltro",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "icon",
+   "fieldtype": "Attach Image",
+   "label": "Icon"
+  },
+  {
+   "fieldname": "short_description",
+   "fieldtype": "Small Text",
+   "label": "Short Description"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-04-05 21:21:29.535486",
+ "modified": "2024-12-09 13:44:01.761662",
  "modified_by": "Administrator",
  "module": "Wiki",
  "name": "Wiki Space",
